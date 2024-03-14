@@ -1,3 +1,5 @@
+This is a clone of https://github.com/TommyChangUMD/ros-humble-ros1-bridge-builder/ incase it's pulled down I wanted it for my Quori ROS2 Update project. Full Credit to TommyChangUMD. 
+
 # ros-humble-ros1-bridge-builder
 Create a "*ros-humble-ros1-bridge*" package that can be used directly within Ubuntu 22.02 ROS2 Humble.
 
